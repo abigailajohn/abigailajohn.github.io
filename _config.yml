@@ -16,7 +16,7 @@ timezone: Africa/Lagos
 
 title: Abee # the main title
 
-tagline: My AppSec Journey: Learning, Building, Sharing # it will display as the subtitle
+tagline: learning, sharing, and building in appsec # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
 I share my experiences as I learn, work, and grow in application security (AppSec). Here, you will find insights from my security journey, hands-on practices, and lessons from securing real-world applications.
